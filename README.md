@@ -1,5 +1,7 @@
 # trapperkeeper-demo
 
+> The [trapperkeeper](https://github.com/puppetlabs/trapperkeeper) project is still being updated, but this repository is not being kept up-to-date. If you're interested in helping maintain it, let us know on the main trapperkeeper project.
+
 This repository contains a simple Trapperkeeper application that is based on the sample app created by the lein TK plugin. It involves cats ( <3 :3 <3 ) and is intended to show off the following features of TK:
 
  * multiple implementations of a given service (see `MeowService`)
